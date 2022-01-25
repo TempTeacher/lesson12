@@ -1,4 +1,4 @@
-package set;
+package com.company.set;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
